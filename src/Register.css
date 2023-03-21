@@ -1,0 +1,24 @@
+.hide {
+    display: none
+}
+
+.valid {
+    color: green
+}
+
+.invalid {
+    color: red
+}
+
+.instructions {
+    font-size: 80%;
+}
+
+.offscreen {
+    display: none;
+}
+
+input {
+    margin-left: .5%;
+    margin-right: .5%;
+}
